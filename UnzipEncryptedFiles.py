@@ -1,5 +1,5 @@
 # unzip encrypted files
-# 解压加密压缩包zip到新目录
+# 提取加密压缩包zip到新目录
 import zipfile,os
 
 Sampledir = ""
